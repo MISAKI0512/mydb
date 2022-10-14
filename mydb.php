@@ -2,7 +2,7 @@
  
 $dsn = 'mysql:dbname=mydb;host=localhost';
 $user = 'root';
-$password = null;
+$password = '';
 //※XAMPPを使用している場合は、passwordの中身は空にしてください。
 
 try {
